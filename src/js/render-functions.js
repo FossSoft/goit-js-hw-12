@@ -24,4 +24,3 @@ export const renderPhotos = (data, listOfPhotos) => {
 
     lightbox.refresh();
 }
-
